@@ -1,10 +1,17 @@
-## Клиент-серверное IOS-приложение Яндекс погода
+## **Клиент-серверное IOS-приложение Яндекс погода**
 
- - [X] Запрос погоды с сервера [Яндекс.Погода](https://weather.yandex.ru)
- - [X] [API.Яндекс Погода](https://yandex.ru/dev/weather/doc/dg/concepts/about.html)
- - [X] Получение погодных условий по геолокации
- - [X] Расширенная информация по выбронному городу
- - [X] Добавление города
+
+### ✅ Запрос погоды с сервера [Яндекс.Погода](https://weather.yandex.ru)
+### ✅ [API.Яндекс Погода](https://yandex.ru/dev/weather/doc/dg/concepts/about.html)
+### ✅ Получение погодных условий по геолокации
+### ✅ Расширенная информация по выбронному городу
+### ✅ Добавление города
+
+- **Использованная библиотека:**
+- [X] CoreLocation
+- [X] SwiftSVG
+- [X] UIKit
+- [X] URLSession
 
 ![CityList](https://github.com/ArturKondratev/Yandex-Weather/blob/main/YandexWeather/Skrin/2.png?raw=true, "CityList")
 
