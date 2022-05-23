@@ -5,4 +5,4 @@
 ## Расширенная информаци по выбранному городу
 
 
-![LaunchScreen](https://github.com/ArturKondratev/Yandex-Weather/blob/main/YandexWeather/Skrin/1.png, "LaunchScreen")
+![LaunchScreen](https://github.com/ArturKondratev/Yandex-Weather/blob/main/YandexWeather/Skrin/1.png?raw=true, "LaunchScreen")
