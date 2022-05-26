@@ -13,8 +13,4 @@
 - [X] UIKit
 - [X] URLSession
 
-![CityList](https://github.com/ArturKondratev/Yandex-Weather/blob/main/YandexWeather/Skrin/2.png?raw=true, "CityList")
-
-![ExtendedInformation](https://github.com/ArturKondratev/Yandex-Weather/blob/main/YandexWeather/Skrin/3.png?raw=true, "ExtendedInformation")
-
-![AddCity](https://github.com/ArturKondratev/Yandex-Weather/blob/main/YandexWeather/Skrin/4.png?raw=true, "AddCity")
+![CityList](https://github.com/ArturKondratev/Yandex-Weather/blob/main/YandexWeather/Skrin/2.png?raw=true, "CityList") ![ExtendedInformation](https://github.com/ArturKondratev/Yandex-Weather/blob/main/YandexWeather/Skrin/3.png?raw=true, "ExtendedInformation") ![AddCity](https://github.com/ArturKondratev/Yandex-Weather/blob/main/YandexWeather/Skrin/4.png?raw=true, "AddCity")
